@@ -1,4 +1,9 @@
-# recriando-interface-netflix
+# Clone Interface Netflix 
+
+Clone da tela inicial de cadastro da Netflix feito em 2021 utilizado: 
+- Html
+- Css
+- JavaScript
 
 
 
